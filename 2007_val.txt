@@ -1,0 +1,52 @@
+/Users/ding/UoA@NZ/Dissertation/yolox-pytorch-main/VOCdevkit/VOC2007/JPEGImages/frame_005250.jpg 128,127,227,246,8 227,6,710,501,3
+/Users/ding/UoA@NZ/Dissertation/yolox-pytorch-main/VOCdevkit/VOC2007/JPEGImages/8172_09_09.jpg 456,187,757,508,3 299,169,456,355,8
+/Users/ding/UoA@NZ/Dissertation/yolox-pytorch-main/VOCdevkit/VOC2007/JPEGImages/frame_006798.jpg 422,54,451,266,6
+/Users/ding/UoA@NZ/Dissertation/yolox-pytorch-main/VOCdevkit/VOC2007/JPEGImages/frame_000504.jpg 9,351,286,516,7 406,351,709,520,7
+/Users/ding/UoA@NZ/Dissertation/yolox-pytorch-main/VOCdevkit/VOC2007/JPEGImages/frame_006405.jpg 200,146,709,504,3
+/Users/ding/UoA@NZ/Dissertation/yolox-pytorch-main/VOCdevkit/VOC2007/JPEGImages/frame_005657.jpg 207,103,712,494,3 173,190,235,261,8
+/Users/ding/UoA@NZ/Dissertation/yolox-pytorch-main/VOCdevkit/VOC2007/JPEGImages/8172_24_05.jpg 561,332,710,575,4 73,250,212,518,4 588,169,688,284,1 91,129,146,249,8 590,174,623,281,8
+/Users/ding/UoA@NZ/Dissertation/yolox-pytorch-main/VOCdevkit/VOC2007/JPEGImages/frame_009469.jpg 234,158,258,259,4 588,63,708,442,5
+/Users/ding/UoA@NZ/Dissertation/yolox-pytorch-main/VOCdevkit/VOC2007/JPEGImages/frame_005120.jpg 286,64,711,571,3 235,86,312,166,8
+/Users/ding/UoA@NZ/Dissertation/yolox-pytorch-main/VOCdevkit/VOC2007/JPEGImages/frame_005478.jpg 304,226,350,337,4
+/Users/ding/UoA@NZ/Dissertation/yolox-pytorch-main/VOCdevkit/VOC2007/JPEGImages/frame_001018.jpg 387,211,515,352,8
+/Users/ding/UoA@NZ/Dissertation/yolox-pytorch-main/VOCdevkit/VOC2007/JPEGImages/8172_10_04.jpg 156,134,756,517,3 182,281,411,343,0
+/Users/ding/UoA@NZ/Dissertation/yolox-pytorch-main/VOCdevkit/VOC2007/JPEGImages/frame_006788.jpg 421,66,444,254,6
+/Users/ding/UoA@NZ/Dissertation/yolox-pytorch-main/VOCdevkit/VOC2007/JPEGImages/frame_002061.jpg 193,188,287,394,4
+/Users/ding/UoA@NZ/Dissertation/yolox-pytorch-main/VOCdevkit/VOC2007/JPEGImages/frame_011382.jpg 444,239,504,351,4 119,91,241,388,4
+/Users/ding/UoA@NZ/Dissertation/yolox-pytorch-main/VOCdevkit/VOC2007/JPEGImages/frame_001345.jpg 151,171,713,516,4 158,217,334,319,0
+/Users/ding/UoA@NZ/Dissertation/yolox-pytorch-main/VOCdevkit/VOC2007/JPEGImages/8172_08_01.jpg 251,5,487,101,3 257,177,433,363,8 425,161,756,428,3 159,5,757,514,3
+/Users/ding/UoA@NZ/Dissertation/yolox-pytorch-main/VOCdevkit/VOC2007/JPEGImages/frame_004111.jpg 222,241,298,491,4 195,4,468,78,1 117,66,250,516,4
+/Users/ding/UoA@NZ/Dissertation/yolox-pytorch-main/VOCdevkit/VOC2007/JPEGImages/8172_30_07.jpg 180,185,282,431,4
+/Users/ding/UoA@NZ/Dissertation/yolox-pytorch-main/VOCdevkit/VOC2007/JPEGImages/8172_22_03.jpg 286,136,416,391,4
+/Users/ding/UoA@NZ/Dissertation/yolox-pytorch-main/VOCdevkit/VOC2007/JPEGImages/frame_001697.jpg 370,153,709,451,3 303,267,396,374,8
+/Users/ding/UoA@NZ/Dissertation/yolox-pytorch-main/VOCdevkit/VOC2007/JPEGImages/frame_009341.jpg 378,228,437,351,4
+/Users/ding/UoA@NZ/Dissertation/yolox-pytorch-main/VOCdevkit/VOC2007/JPEGImages/8172_14_03.jpg 380,197,571,416,3
+/Users/ding/UoA@NZ/Dissertation/yolox-pytorch-main/VOCdevkit/VOC2007/JPEGImages/frame_006845.jpg 240,176,433,407,8 11,97,240,510,3
+/Users/ding/UoA@NZ/Dissertation/yolox-pytorch-main/VOCdevkit/VOC2007/JPEGImages/frame_007795.jpg 243,106,430,347,8 13,137,595,203,6
+/Users/ding/UoA@NZ/Dissertation/yolox-pytorch-main/VOCdevkit/VOC2007/JPEGImages/frame_008896.jpg 110,0,186,27,8 569,231,675,353,8 254,33,713,312,3
+/Users/ding/UoA@NZ/Dissertation/yolox-pytorch-main/VOCdevkit/VOC2007/JPEGImages/frame_006918.jpg 298,379,633,503,7 306,461,346,486,7
+/Users/ding/UoA@NZ/Dissertation/yolox-pytorch-main/VOCdevkit/VOC2007/JPEGImages/frame_005039.jpg 35,183,198,304,3
+/Users/ding/UoA@NZ/Dissertation/yolox-pytorch-main/VOCdevkit/VOC2007/JPEGImages/frame_006690.jpg 435,224,463,473,6
+/Users/ding/UoA@NZ/Dissertation/yolox-pytorch-main/VOCdevkit/VOC2007/JPEGImages/frame_007405.jpg 275,280,573,569,1 257,103,457,279,0
+/Users/ding/UoA@NZ/Dissertation/yolox-pytorch-main/VOCdevkit/VOC2007/JPEGImages/frame_003661.jpg 433,187,547,442,4
+/Users/ding/UoA@NZ/Dissertation/yolox-pytorch-main/VOCdevkit/VOC2007/JPEGImages/frame_006678.jpg 435,267,459,401,6
+/Users/ding/UoA@NZ/Dissertation/yolox-pytorch-main/VOCdevkit/VOC2007/JPEGImages/frame_003112.jpg 299,112,716,569,3
+/Users/ding/UoA@NZ/Dissertation/yolox-pytorch-main/VOCdevkit/VOC2007/JPEGImages/8172_13_06.jpg 10,182,218,400,3 217,136,299,229,8
+/Users/ding/UoA@NZ/Dissertation/yolox-pytorch-main/VOCdevkit/VOC2007/JPEGImages/frame_010432.jpg 89,30,292,175,7
+/Users/ding/UoA@NZ/Dissertation/yolox-pytorch-main/VOCdevkit/VOC2007/JPEGImages/frame_005758.jpg 292,217,334,374,5
+/Users/ding/UoA@NZ/Dissertation/yolox-pytorch-main/VOCdevkit/VOC2007/JPEGImages/frame_000805.jpg 305,287,340,463,4
+/Users/ding/UoA@NZ/Dissertation/yolox-pytorch-main/VOCdevkit/VOC2007/JPEGImages/frame_013676.jpg 407,4,567,504,5
+/Users/ding/UoA@NZ/Dissertation/yolox-pytorch-main/VOCdevkit/VOC2007/JPEGImages/frame_008901.jpg 300,171,353,268,0
+/Users/ding/UoA@NZ/Dissertation/yolox-pytorch-main/VOCdevkit/VOC2007/JPEGImages/frame_001064.jpg 284,275,313,322,1
+/Users/ding/UoA@NZ/Dissertation/yolox-pytorch-main/VOCdevkit/VOC2007/JPEGImages/frame_001070.jpg 305,253,339,299,1
+/Users/ding/UoA@NZ/Dissertation/yolox-pytorch-main/VOCdevkit/VOC2007/JPEGImages/frame_001942.jpg 162,157,709,515,3 72,194,157,284,8
+/Users/ding/UoA@NZ/Dissertation/yolox-pytorch-main/VOCdevkit/VOC2007/JPEGImages/frame_013616.jpg 416,35,546,486,5
+/Users/ding/UoA@NZ/Dissertation/yolox-pytorch-main/VOCdevkit/VOC2007/JPEGImages/frame_004627.jpg 104,199,246,425,4
+/Users/ding/UoA@NZ/Dissertation/yolox-pytorch-main/VOCdevkit/VOC2007/JPEGImages/frame_004357.jpg 210,242,305,368,4
+/Users/ding/UoA@NZ/Dissertation/yolox-pytorch-main/VOCdevkit/VOC2007/JPEGImages/frame_008976.jpg 362,400,444,483,8
+/Users/ding/UoA@NZ/Dissertation/yolox-pytorch-main/VOCdevkit/VOC2007/JPEGImages/frame_007933.jpg 391,106,507,440,5
+/Users/ding/UoA@NZ/Dissertation/yolox-pytorch-main/VOCdevkit/VOC2007/JPEGImages/8172_23_03.jpg 337,108,757,278,7
+/Users/ding/UoA@NZ/Dissertation/yolox-pytorch-main/VOCdevkit/VOC2007/JPEGImages/frame_005843.jpg 266,140,708,415,3 276,206,422,276,0
+/Users/ding/UoA@NZ/Dissertation/yolox-pytorch-main/VOCdevkit/VOC2007/JPEGImages/frame_007259.jpg 322,277,393,328,0 359,318,462,505,6
+/Users/ding/UoA@NZ/Dissertation/yolox-pytorch-main/VOCdevkit/VOC2007/JPEGImages/8172_21_06.jpg 432,142,756,497,3 285,144,433,248,8
+/Users/ding/UoA@NZ/Dissertation/yolox-pytorch-main/VOCdevkit/VOC2007/JPEGImages/8172_09_07.jpg 312,167,375,274,0
